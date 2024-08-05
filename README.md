@@ -1,7 +1,7 @@
 # Октавиан (кот)
 Специалист по поеданию вкусняшек. Многократный победитель конкурсов на самый крепкий дневной сон.
 
-![the_cat](https://github.com/user-attachments/assets/ad9343a2-0d52-4157-af71-d6a76bf85460)
+![the_cat](https://github.com/user-attachments/assets/290f9c90-6f4f-4ec9-9383-07a6dcc5f9f3)
 
 # Биография
 
